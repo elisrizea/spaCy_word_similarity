@@ -1,5 +1,5 @@
 
-# **Manage items inventory**
+# ** spaCy word similarity**
     Test spaCy module word similarity using:
     'en_core_web_sm' and 'en_core_web_md' 
 
