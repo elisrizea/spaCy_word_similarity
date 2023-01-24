@@ -11,7 +11,7 @@
 
 # **Require:**
     Require spaCy module and models: 'en_core_web_sm' and 'en_core_web_md'
-    All installation details depending on platform:
+    All installation details, depending on platform:
     https://spacy.io/usage
     
 
@@ -19,6 +19,7 @@
     pip install -U pip setuptools wheel
     pip install -U spacy
     python3 -m spacy download en_core_web_sm
+    python3 -m spacy download en_core_web_md
     
 # **Running:**
     semantic.py
