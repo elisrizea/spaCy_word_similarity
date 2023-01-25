@@ -11,7 +11,7 @@
 
 # **Require:**
     Require spaCy module and models: 'en_core_web_sm' and 'en_core_web_md'
-    All installation details, depending on platform:
+    spaCy installation and usage page is:
     https://spacy.io/usage
     
 
