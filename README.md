@@ -20,6 +20,7 @@
     pip install -U spacy
     python3 -m spacy download en_core_web_sm
     python3 -m spacy download en_core_web_md
+    For windows use python or python.exe instead of python3
     
 # **Running:**
     semantic.py
